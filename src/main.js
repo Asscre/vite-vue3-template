@@ -1,4 +1,5 @@
 import { createApp } from 'vue';
+import './assets/common.css';
 import './tailwindcss.css';
 import App from './App.vue';
 import router from './routes';
